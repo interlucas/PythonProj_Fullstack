@@ -1,2 +1,2 @@
-# Proj10_Python_Fullstack
-Fullstack Project
+# PythonProj_Fullstack
+PythonProj_Fullstack
